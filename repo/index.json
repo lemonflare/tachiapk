@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: SBXH",
     "pkg": "eu.kanade.tachiyomi.extension.ko.sbxh",
-    "apk": "tachiyomi-ko.sbxh-v1.4.5-release.apk",
+    "apk": "tachiyomi-ko.sbxh-v1.4.6-release.apk",
     "lang": "ko",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
